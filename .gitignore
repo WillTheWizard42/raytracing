@@ -1,0 +1,4 @@
+*.o
+viewer/myViewer
+viewer/moc_glshaderwindow.cpp
+.vscode/
